@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: hyunicho62@gmail.com
 
 
-[![Minsik113's github stats](https://github-readme-stats.vercel.app/api?username=Minsik113&count_private=true)](https://github.com/Minsik113/github-readme-stats)
+![Anurag's 's github stats](https://github-readme-stats.vercel.app/api?username=Minsik113&count_private=true)
