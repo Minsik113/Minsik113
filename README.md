@@ -5,8 +5,8 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on <a href="https://daou.co.kr/" target="_blank">daou</a>
-- 🌱 I’m currently learning web-app, oracle
+- 🔭 I’m currently looking for a job
+- 🌱 I’m currently learning big data engineering
 - 💬 Ask me about anything!!
 - 📫 How to reach me: hyunicho62@gmail.com
 
